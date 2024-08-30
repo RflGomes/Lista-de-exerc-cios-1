@@ -4,13 +4,13 @@
 
   - Node.js instalado 
 
-Certifique-se de que o Node.js está instalado em sua máquina. Você pode verificar se ele está instalado executando o seguinte comando no terminal:
+Certifique-se de que o Node.js esteja instalado na sua máquina. Para verificar se ele está instalado é necessário executar o seguinte comando no terminal:
 
   - node -v
 
-* Como Executar o script:
+* Como executar o script:
 
-  - Instale as dependências: 
+  - Faça a instação das dependências: 
   - Este script utiliza o módulo prompt-sync para capturar entradas do usuário no terminal. Caso não esteja incluído no repositório, instale-o com:
 
 * npm install prompt-sync
